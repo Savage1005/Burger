@@ -42,7 +42,7 @@ var orm ={
             cb(res);
         });
     },
-  insertOne: function(table, cols, vals, cb) {
+  insertOne: function(table, cols, vals, cb)  {
     var queryString = "INSERT INTO " + table;
 
     queryString += " (";

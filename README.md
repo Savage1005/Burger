@@ -3,6 +3,9 @@
 ## Description
  For this project, I created a full stack application that where a user can choose to devour a burger or add a new one.  The purpose was to learn how to implement mysql along with express and express handlebars to have information  tie in to the front end html.
 
+## Deployed App at Heroku
+This application is deployed at Heroku. The link is :  https://eatdasavageburger.herokuapp.com/
+
 ## User Story
 AS A user, I want to devour burgers, because I am hungry! Yum.
 
